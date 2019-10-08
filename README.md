@@ -1,4 +1,8 @@
 ![DSL Logo][dsllogo]
+
+![](https://cdn.datafloq.com/cache/blog_pictures/878x531/what-is-the-future-of-data-warehousing.jpg =250x250)
+
+
 ![alt text][logo]
 
 [Git-Hub Repo][gitlink]
@@ -30,4 +34,4 @@ Content
 
 [dsllogo]: dsl_logo.png
 [gitlink]: https://github.com/KeenanBrab/Keenan-Brab-DSL-Project
-[logo]: (https://cdn.datafloq.com/cache/blog_pictures/878x531/what-is-the-future-of-data-warehousing.jpg =250x250) "Data Warehousing"
+[logo]: https://cdn.datafloq.com/cache/blog_pictures/878x531/what-is-the-future-of-data-warehousing.jpg "Data Warehousing"
