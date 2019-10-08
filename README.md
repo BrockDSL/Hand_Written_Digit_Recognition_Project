@@ -1,7 +1,5 @@
 ![DSL Logo][dsllogo]
-
-![](https://cdn.datafloq.com/cache/blog_pictures/878x531/what-is-the-future-of-data-warehousing.jpg =250x250)
-
+![test image size](https://cdn.datafloq.com/cache/blog_pictures/878x531/what-is-the-future-of-data-warehousing.jpg){:height="250px" width="250px"}
 
 ![alt text][logo]
 
