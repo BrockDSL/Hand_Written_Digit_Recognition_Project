@@ -5,14 +5,10 @@
 [Git-Hub Repo][gitlink]
 
 # Title
-Python TensorFlow Neural Network Project
-
-### Brief Introduction
-This project will go over the creation and usage of a TensorFlow neural network. 
+Python TensorFlow Neural Network 
 
 ### Description
-
-Content
+This project will go over the creation and usage of a TensorFlow neural network in the application of data validation for large data sets. 
 
 ### Conclusion.
  
