@@ -5,10 +5,10 @@
 [Git-Hub Repo][gitlink]
 
 # Title
-Keenan's DSL final project page.
+Python TensorFlow Neural Network Project
 
 ### Brief Introduction
-Intro to be added once project is determined
+This project will go over the creation and usage of a TensorFlow neural network. 
 
 ### Description
 
@@ -31,4 +31,4 @@ Content
 
 [dsllogo]: dsl_logo.png
 [gitlink]: https://github.com/KeenanBrab/Keenan-Brab-DSL-Project
-[logo]: https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/05/image3.png?w=1000&ssl=1 "Data Warehousing"
+[logo]: https://www.kdnuggets.com/wp-content/uploads/tensorflow-white-2.jpg "Data Warehousing"
