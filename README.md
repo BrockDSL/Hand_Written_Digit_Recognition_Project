@@ -3,15 +3,17 @@
 ![alt text][logo]
 
 [Git-Hub Repo][gitlink]
-
-# Python TensorFlow ANN
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/KeenanBrab/MNISTNeuralNetwork/blob/master/NeuralNet.ipynb]
+# MNIST Hand Written Digit Recognition (SciKit-Learn and skorch)
 
 
 ### Description
-This project will go over the creation and usage of a TensorFlow neural network in the application of data validation for large data sets. Artifical neural networks are loosely inspired by biological nerual netowrks that constitute the brain of an animal. Artifical neural netowrks learn by example, given a set of data with proper formatting, field types and correctness. We should be able to get our ANN to learn how to validate more data based on these qualities. In large scale applications where it would be impossible to manually verify data's "correctness" due to it's size, an ANN can be used.
+Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs.
+
+For this tutorial we will be utilizing colab to execute python code and packages in order to classify handwritten digits with a Neural Network. The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset. It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. We will be training our neural netowrk from this dataset so that we can make predictions.
 
 ### Tools used.
-For this project I will be using [Python 3](https://www.python.org/download/releases/3.0/), [tensorflow](https://www.tensorflow.org/) and [Jupyter Notebooks](https://jupyter.org/). 
+For this project we will be using [Python 3](https://www.python.org/download/releases/3.0/), [Google Colab](https://colab.research.google.com/) and [skorch](https://skorch.readthedocs.io/en/stable/#), [scikit-learn](https://scikit-learn.org/stable/). 
  
  
  
