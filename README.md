@@ -3,7 +3,7 @@
 ![alt text][logo]
 
 [Git-Hub Repo][gitlink]
-[(https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/KeenanBrab/MNISTNeuralNetwork/blob/master/NeuralNet.ipynb]
+[(https://github.com/KeenanBrab/MNISTNeuralNetwork/blob/master/NeuralNet.ipynb]
 # MNIST Hand Written Digit Recognition (SciKit-Learn and skorch)
 
 
