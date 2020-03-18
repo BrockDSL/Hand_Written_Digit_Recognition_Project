@@ -2,9 +2,7 @@
 
 ![alt text][logo]
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/ParcourSup.py/blob/master/notebooks/ParcourSup.py_version_simplifiee.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KeenanBrab/MNISTNeuralNetwork/blob/master/NeuralNet.ipynb)
 
 # MNIST Hand Written Digit Recognition (SciKit-Learn and skorch)
 
