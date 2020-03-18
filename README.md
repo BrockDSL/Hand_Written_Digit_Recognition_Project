@@ -2,6 +2,8 @@
 
 ![alt text][logo]
 
+[![Google Colab](https://badgen.net/badge/Lancer/sur%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Naereen/ParcourSup.py/blob/master/notebooks/ParcourSup.py_version_simplifiee.ipynb)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 
 # MNIST Hand Written Digit Recognition (SciKit-Learn and skorch)
