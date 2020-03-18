@@ -30,4 +30,4 @@ For this project we will be using [Python 3](https://www.python.org/download/rel
 
 [dsllogo]: dsl_logo.png
 [gitlink]: https://github.com/KeenanBrab/Keenan-Brab-DSL-Project
-[logo]: https://www.kdnuggets.com/wp-content/uploads/tensorflow-white-2.jpg "Data Warehousing"
+[logo]: https://miro.medium.com/max/623/1*JaF7d0hECZed9A_iDNy4hQ.png "Data Warehousing"
